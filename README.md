@@ -16,3 +16,5 @@ The goal is to create a **spinner loading animation** that only runs while the p
 1. Clone the repository:
    ```bash
    git clone https://github.com/AmirRiahi2008/spinner-loader.git
+
+(Demo)[https://spinner-loader-omega.vercel.app/]
