@@ -17,4 +17,4 @@ The goal is to create a **spinner loading animation** that only runs while the p
    ```bash
    git clone https://github.com/AmirRiahi2008/spinner-loader.git
 
-(Demo)[https://spinner-loader-omega.vercel.app/]
+[Demo](https://spinner-loader-omega.vercel.app/)
